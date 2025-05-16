@@ -53,8 +53,8 @@ All visualizations were generated using Matplotlib and Seaborn.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NareshChethala/10K_Seintiment_Analysis.git
-   cd 10K_Sentiment_Analysis
+   git clone https://github.com/simransukhawani/sentiment_analysis_10K_filings.git
+   cd sentiment_analysis_10K_filings
    ```
 2. Install dependencies:
    ```bash
@@ -64,8 +64,6 @@ All visualizations were generated using Matplotlib and Seaborn.
    ```
    code/sentiment_analysis_10k.ipynb
    ```
-4. Compile the LaTeX document to generate the final paper.
-
 ---
 
 ## Keywords
@@ -77,6 +75,6 @@ All visualizations were generated using Matplotlib and Seaborn.
 If you have any questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - 📧 Email: [simransukhawani3@gmail.com ](mailto:simransukhawani3@gmail.com)
-- 🌐 GitHub: [@NareshChethala](https://github.com/NareshChethala)
+- 🌐 GitHub: [@simransukhawani](https://github.com/simransukhawani)
 
 ---
